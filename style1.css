@@ -121,6 +121,7 @@ body {
   max-width: 100%;
   border-radius: 15px;
 }*/
+/* Navbar */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -286,6 +287,55 @@ body {
 }
 
 
+/* 
+@media (max-width: 900px) {
+  .hamburger {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 70px;
+    right: 10%;
+    background: #e3f2e1;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px rgba(0,0,0,0.2);
+    padding: 20px;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-image {
+    max-width: 300px;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .hero {
+    padding: 80px 15%;
+  }
+
+  .hero-text h1 {
+    font-size: 3.5rem;
+  }
+
+  .hero-text p {
+    font-size: 1.5rem;
+  }
+}
+*/
+
 /* Best Selling Section */
 .best-selling {
   text-align: center;
@@ -400,6 +450,7 @@ body {
     border-radius: 20px;
   }
 }
+
 
 
 
