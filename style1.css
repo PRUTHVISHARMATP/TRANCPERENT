@@ -121,6 +121,21 @@ body {
   max-width: 100%;
   border-radius: 15px;
 }*/
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10%;
+ /* background: #e3f2e1;*/
+  background:#1bb606;
+  position: relative;
+}
+
+.logo {
+  font-size: clamp(1.5rem, 2vw, 2rem);
+  font-weight: bold;
+}
+
 .nav-links {
   list-style: none;
   display: flex;
@@ -385,6 +400,7 @@ body {
     border-radius: 20px;
   }
 }
+
 
 
 
