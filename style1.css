@@ -74,6 +74,9 @@ body {
   align-items: center;
   padding: 50px 10%;
   flex-wrap: wrap;
+  background-image:url(undefined_Create_the_same_with.jpeg);
+  backgroung-size:covered;
+  height:100vh;
 }
 
 .hero-text {
@@ -281,6 +284,7 @@ body {
     border-radius: 20px;
   }
 }
+
 
 
 
