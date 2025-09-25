@@ -74,8 +74,8 @@ body {
   align-items: center;
   padding: 50px 10%;
   flex-wrap: wrap;
-  background-image:url(undefined_Create_the_same_with.jpeg);
-  backgroung-size:covered;
+  background-image:url(undefined_Reduce_the_height_an.png);
+  backgroung-size:cover;
   height:100vh;
 }
 
@@ -118,10 +118,10 @@ body {
   margin-top: 20px;
 }
 
-.hero-image img {
+/*.hero-image img {
   max-width: 100%;
   border-radius: 15px;
-}
+}*/
 
 @media (max-width: 900px) {
   .hamburger {
@@ -284,6 +284,7 @@ body {
     border-radius: 20px;
   }
 }
+
 
 
 
