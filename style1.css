@@ -76,6 +76,7 @@ body {
   flex-wrap: wrap;
   background-image:url(undefined_Reduce_the_height_an.png);
   backgroung-size:cover;
+  background-repeat:no-repeat;
   height:100vh;
 }
 
@@ -284,6 +285,7 @@ body {
     border-radius: 20px;
   }
 }
+
 
 
 
