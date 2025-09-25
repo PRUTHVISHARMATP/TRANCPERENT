@@ -78,6 +78,7 @@ body {
   backgroung-size:cover;
   background-repeat:no-repeat;
   height:100vh;
+  width:100%;
 }
 
 .hero-text {
@@ -285,6 +286,7 @@ body {
     border-radius: 20px;
   }
 }
+
 
 
 
